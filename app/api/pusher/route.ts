@@ -1,0 +1,1 @@
+// This file is removed as API routes are not supported in static exports
